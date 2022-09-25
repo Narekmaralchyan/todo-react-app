@@ -1,0 +1,12 @@
+.footer{
+    width: 500px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(29, 94, 167, 0.7);
+    border-radius: 5px;
+}
+.footer button {
+    margin: 0 50px 0 50px;
+    height: 30px;
+}
